@@ -1,2 +1,3 @@
-# my-portfolio
-My serverless portfolio
+# Miroslav Ladan's portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
