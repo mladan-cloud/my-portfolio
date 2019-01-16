@@ -12,3 +12,5 @@ artifacts:
     - ml-resume.pdf
     - styles/main.css
     - images/*
+    - babel.html
+    - react.html
